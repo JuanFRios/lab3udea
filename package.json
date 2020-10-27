@@ -1,0 +1,25 @@
+{
+  "name": "lab3udea",
+  "version": "1.0.0",
+  "description": "Mi calculadora UdeA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanFRios/lab3udea.git"
+  },
+  "keywords": [
+    "Sumar",
+    "Restar",
+    "Multiplicar",
+    "Dividir"
+  ],
+  "author": "Juan Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanFRios/lab3udea/issues"
+  },
+  "homepage": "https://github.com/JuanFRios/lab3udea#readme"
+}
